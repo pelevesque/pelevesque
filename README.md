@@ -1,6 +1,8 @@
-### Hi there 👋
+Welcome to my github,
 
 I am a musician, creater of the Orfeo programming language, and a Node.js and frontend web developer.
 
-Orfeo: https://github.com/orfeolang  
-My Node.js packages:  https://github.com/pelevesque-node/   
+Project             | Link
+--------------------| ------------
+Orfeo               | https://github.com/orfeo-lang
+My Node.js packages | https://github.com/pelevesque-node
