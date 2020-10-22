@@ -4,5 +4,5 @@ I am a musician, creater of the Orfeo programming language, and a Node.js and fr
 
 Project             | Link
 --------------------| ------------
-Orfeo               | https://github.com/orfeo-lang
+Orfeo               | https://github.com/orfeolang
 My Node.js packages | https://github.com/pelevesque-node
