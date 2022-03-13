@@ -1,6 +1,6 @@
 Welcome to my github,
 
-I am a musician, creater of the Orfeo programming language, and a Node.js and frontend web developer.
+I am a musician, creator of the Orfeo programming language, and a Node.js and frontend web developer.
 
 Project             | Link
 --------------------| ------------
